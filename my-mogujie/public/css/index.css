@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+	/*怪异盒模型*/
+}
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+img {
+	vertical-align: middle;
+}
+
+.warp {
+	/*//移动端没有最大宽度最小宽度都是百分百*/
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
