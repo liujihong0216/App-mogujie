@@ -121,7 +121,7 @@ export default {
                                 navimg1 : conbj3,
                                 navimg11 : con21,
                                 navimg12 : con22,
-                    
+                                navimg13 : con23,
                                 name3 : "8.0万",
                             },
                     ],
@@ -157,7 +157,7 @@ export default {
                             {
                                 navimg1 : conbj5,
                                 navimg11 : con21,
-                                
+                                navimg13 : con23,
                                 navimg12 : con22,
                                 name3 : "5872",
                             },
@@ -195,6 +195,7 @@ export default {
                                 navimg1 : conbj7,
                                 navimg11 : con211,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "3806",
                             },
                             {
@@ -208,6 +209,7 @@ export default {
                                 navimg1 : conbj9,
                                 navimg11 : con21,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "7718",
                             },
                     ],
@@ -244,6 +246,7 @@ export default {
                                 navimg1 : conbj10,
                                 navimg11 : con211,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "52.5万",
                             },
                             {
@@ -285,12 +288,14 @@ export default {
                                 navimg1 : conbj14,
                                 navimg11 : con21,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "2223",
                             },
                             {
                                 navimg1 : conbj15,
                                 navimg11 : con21,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "5847",
                             },
                     ],
@@ -319,6 +324,7 @@ export default {
                                 navimg1 : conbj10,
                                 navimg11 : con211,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "52.5万",
                             },
                             {
@@ -361,18 +367,21 @@ export default {
                                 navimg1 : conbj13,
                                 navimg11 : con21,
                                 navimg12 : con22, 
+                                navimg13 : con23,
                                 name3 : "1555",
                             },
                             {
                                 navimg1 : conbj14,
                                 navimg11 : con21,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "1.5万",
                             },
                             {
                                 navimg1 : conbj15,
                                 navimg11 : con21,
                                 navimg12 : con22,
+                                navimg13 : con23,
                                 name3 : "6.1万",
                             },
                     ],
